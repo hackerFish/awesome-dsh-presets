@@ -33,6 +33,7 @@ cat ~/dsh-presets/rules/code-quality.md >> ~/.dsh/AGENTS.md     # 按需挑选
 | [minimal-zh](presets/minimal-zh/) | 官方派生 | 极简双工具 + 中文 persona |
 | [writer](presets/writer/) | 原创 | 中文写作与文档维护组合 |
 | [researcher](presets/researcher/) | 原创 | 信息调研组合 |
+| [web-dev](presets/web-dev/) | 原创 | Web 开发工程预制件：23个配套技能，从选型到部署，含设计规则库 |
 
 ## 规则清单
 
